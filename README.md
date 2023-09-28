@@ -2,6 +2,8 @@
 
 This is an example of implementing Conway's Life Game with Deno + TypeScript + p5.js.
 
+![screen cast](./img/Animation.gif)
+
 ## preview locally
 
 Install deno and run the following code:
